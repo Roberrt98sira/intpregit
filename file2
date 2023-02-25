@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 this is some change
 remote origin`
 git fetch trail
+=======
+remote origin`
+>>>>>>> 98acaf4... adding content to file2
